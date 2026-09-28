@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="assets/preview.svg" alt="ScamShield preview" width="100%" />
-</p>
-
-<p align="center">
-  <img src="assets/features.svg" alt="ScamShield features" width="100%" />
+  <img src="assets/website-preview.svg" alt="ScamShield website preview" width="100%" />
 </p>
 
 # ScamShield
